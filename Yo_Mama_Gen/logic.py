@@ -20,7 +20,7 @@ OPENAI_API_KEY=sk-...
 """
 
 
-openai.api_key = "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"
+openai.api_key = "You're own api key"
 
 adjectives: List[str] = [
     "fat", "ugly", "tall", "short", "bald", "lazy", "slow",
